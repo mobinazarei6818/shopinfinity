@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    direction: rtl;
+    font-family: 'fontproject';
+}
+@font-face {
+    font-family:'fontproject';
+    src: url(./assets/fonts/Peyda.ttf);
+}
